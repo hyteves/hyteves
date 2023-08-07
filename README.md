@@ -13,7 +13,7 @@ Through the combination of code and design, I constantly seek to raise the level
 
 ### 🖥️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 <!--
 **hyteves/hyteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
